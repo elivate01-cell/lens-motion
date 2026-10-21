@@ -1,0 +1,22 @@
+{
+  "name": "Lens & Motion",
+  "slug": "lens-motion",
+  "concept": "Photography studio",
+  "category": "portfolio-creative",
+  "subcategory": "photography-studio",
+  "description": "Minimal gallery site for a photo studio: full-bleed colour-frame placeholders, session pricing rows, booking steps and a gear-light strip.",
+  "design_family": "gallery-minimal",
+  "pages": [
+    "index.html"
+  ],
+  "features": [
+    "colour-frame gallery placeholders",
+    "session pricing rows",
+    "3-step booking guide",
+    "studio info with mono captions",
+    "light-strip motif"
+  ],
+  "recommended_tier": "free-or-pro-review",
+  "preview_image": "preview/cover.png",
+  "status": "local-draft"
+}
